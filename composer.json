@@ -1,0 +1,6 @@
+{
+  "name": "petr-heinz/packagist-version-test",
+  "type": "project",
+  "description": "Repo made for testing versions in format SERIES.MAJOR.MINOR.PATCH, eg. 7.1.0.0",
+  "license": "Unlicense"
+}
